@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "src/pages/Landing.tsx"
+        ],
+        "createdAt": "2026-09-18T14:43:17.778Z",
+        "reason": "user confirmed: task brief section 6 explicitly requests selective gradient text on hero headline word and final CTA headline word only, not on every heading"
+      }
+    ]
+  }
+}
